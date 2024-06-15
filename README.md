@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkullLunar
 - 👀 I’m interested in technical art
-- 🌱 I’m currently learning particle behavior
+- 🌱 I’m currently learning particle behavior and shaders
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me: instagram is likely your best bet
 
