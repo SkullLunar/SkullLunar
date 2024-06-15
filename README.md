@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SkullLunar
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me: by reaching out
+- 👀 I’m interested in technical art
+- 🌱 I’m currently learning particle behavior
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me: instagram is likely your best bet
 
 <!---
 SkullLunar/SkullLunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
